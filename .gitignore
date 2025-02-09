@@ -1,0 +1,9 @@
+.vscode/
+/backend/
+**/*.env
+**/dist/
+**/node_modules/
+**/build/
+**/package-lock.json
+**/bun.lock
+**/README.md
